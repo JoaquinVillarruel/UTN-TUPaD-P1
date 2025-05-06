@@ -21,9 +21,10 @@ print(animales)
 
 #Ejercicio 5
 """
-Se crea una lista con cinco numeros, mediante la funcion max() se obtiene el valor mas alto de la lista,
-la funcion max() va a devolver 22 entonces quedaria numeros.remove(22) de esta forma eliminando el valor
-Mas alto de la lista, finalmente se muestra como quedo la lista.
+Se crea una lista con cinco números. Mediante la función max(), 
+se obtiene el valor más alto de la lista. La función max() va a devolver 22, 
+por lo que se ejecuta numeros.remove(22), eliminando así el valor más alto de la lista. 
+Finalmente, se muestra cómo quedó la lista.
 """
 
 #Ejercicio 6
